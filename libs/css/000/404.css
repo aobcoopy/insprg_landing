@@ -1,0 +1,28 @@
+body
+{
+	background-color:#efefef;
+}
+.f_main
+{
+	font-size:50px;
+	font-family:pr;
+}
+.f_sub
+{
+	font-size:20px;
+	font-family:pr;
+}
+.btn-main {
+    color: #FFF;
+    background-color: #f05b46;
+    border-color: #f05b46;
+    border-radius:0px;
+    transition:all 0.3s;
+}
+a,a:hover,.btn-main:hover
+{
+	text-decoration:none;
+	color:#fff;
+	box-shadow:0px 0px 10px #f05b46;
+	transition:all 0.3s;
+}

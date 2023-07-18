@@ -1,0 +1,2 @@
+<h2>Ethics Policy</h2>
+We expect all prospective authors to understand our Ethics Policy before submitting any manuscript to this journal. This policy details the responsibilities of all authors, editors and reviewers, as well as our own ethical responsibilities. This includes, but is not limited to, plagiarism, falsification of data, misuse of third party material, fabrication of results and fraudulent authorship. 

@@ -1,0 +1,20 @@
+
+@font-face {
+    font-family: pr;
+    src: url('../fonts/proxima-nova-regular.otf');
+}
+
+@font-face {
+    font-family: pri;
+    src: url('../fonts/proxima-nova-regular-italic.otf');
+}
+
+@font-face {
+    font-family: pt;
+    src: url('../fonts/proxima-nova-thin.otf');
+}
+
+@font-face {
+    font-family: lov;
+    src: url('../fonts/LovingMemories-Regular.otf');
+}

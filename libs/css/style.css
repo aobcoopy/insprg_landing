@@ -1,0 +1,33 @@
+.mynav
+{
+    background:#f2f2f2;
+    height:70px;
+    padding:10px;
+}
+.mynav > .logo
+{
+    height:100%;
+    margin-left:100px;
+}
+.topbut
+{
+    right:0;
+    position:absolute;
+    top:0;
+    padding:23px 45px;
+    border:none;
+    background:#f26d4c;
+    color:#fff;
+}
+.ham
+{
+    top:0;
+    right:0;
+    position:absolute;
+    margin-right:162px;
+    padding:12.5px 25px;
+    font-size:30px;
+    font-weight:lighter;
+    background:#ff000000;
+    cursor:pointer;
+}
